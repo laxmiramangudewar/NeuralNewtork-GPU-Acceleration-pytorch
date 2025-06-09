@@ -144,6 +144,7 @@
 #   MKL_THREADING
 #     MKL threading mode: SEQ, TBB or OMP (default)
 #
+# Using the ROCM kernel
 #   USE_ROCM_KERNEL_ASSERT=1
 #     Enable kernel assert in ROCm platform
 #
